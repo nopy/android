@@ -9,7 +9,7 @@ familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
 To initialize your local repository using the GAOSP trees, use a command like this:
 
-    repo init -u git://github.com/drakaz/android.git -b froyo-gaosp
+    repo init -u git://github.com/drakaz/android.git -b gaosp-froyo
 
 Then to sync up:
 
