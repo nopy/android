@@ -7,7 +7,7 @@
   <default revision="froyo"
            remote="korg" />
 
-  <project path="build" name="drakaz/gaosp_android_build" remote="github" revision="gaosp-froyo" />
+  <project path="build" name="drakaz/gaosp_android_build" remote="github" revision="gaosp-froyo"> 
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
