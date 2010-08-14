@@ -111,6 +111,7 @@
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/yaffs2" name="koush/android_external_yaffs2" remote="github" />
   <project path="external/zlib" name="platform/external/zlib" />
+  <project path="external/klogtail" name="nopy/android_external_klogtail" remote="github" />
 
   <project path="frameworks/base" name="drakaz/gaosp_frameworks_base" remote="github" revision="gaosp-froyo" />
   <project path="frameworks/ex" name="platform/frameworks/ex" />
