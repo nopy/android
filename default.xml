@@ -25,7 +25,7 @@
   <project path="device/sample" name="device/sample" />
   <project path="device/Samsung/I7500" name="drakaz/gaosp_vendor" remote="github" revision="gaosp-froyo"/>
 
-  <project path="external/apache-http" name="platform/external/apache-http" />
+  <project path="external/apache-http" name="platform/external/apache-http" revision="master" />
   <project path="external/astl" name="platform/external/astl" />
   <project path="external/bash" name="CyanogenMod/android_external_bash" remote="github" revision="bash-4.1-froyo" />
   <project path="external/bison" name="platform/external/bison" />
