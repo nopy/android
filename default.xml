@@ -25,8 +25,8 @@
   <project path="device/sample" name="device/sample" />
   <project path="device/Samsung/I7500" name="drakaz/gaosp_vendor" remote="github" revision="gaosp-froyo"/>
 
-  <project path="external/alsa-lib" name="platform/external/alsa-lib" />
-  <project path="external/alsa-utils" name="platform/external/alsa-utils" />
+  <project path="external/alsa-lib" name="platform/external/alsa-lib" revision="master" />
+  <project path="external/alsa-utils" name="platform/external/alsa-utils" revision="master" />
   <project path="external/apache-http" name="platform/external/apache-http" revision="master" />
   <project path="external/astl" name="platform/external/astl" />
   <project path="external/bash" name="CyanogenMod/android_external_bash" remote="github" revision="bash-4.1-froyo" />
@@ -120,6 +120,7 @@
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
   <project path="frameworks/policies/base" name="drakaz/gaosp_frameworks_policies_base" remote="github" revision="gaosp-froyo" />
 
+  <project path="hardware/alsa_sound" name="platform/hardware/alsa_sound" revision="master" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
   <project path="hardware/libhardware" name="drakaz/gaosp_hardware_libhardware" remote="github" revision="gaosp-froyo" />
   <project path="hardware/libhardware_legacy" name="drakaz/gaosp_hardware_libhardware_legacy" remote="github" revision="gaosp-froyo" />
